@@ -1,17 +1,12 @@
 {
-    "name": "tfc/tfcapi",
-    "description": "Small package for connecting to TFC API",
+    "name": "rtw/rtwapi",
+    "description": "Small package for connecting to RTW API",
     "type": "library",
     "license": "proprietary",
     "authors": [
         {
-            "name": "Alex",
-            "email": "finney.alex@gmail.com",
-            "role": "Developer"
-        },
-        {
             "name": "Sergio",
-            "email": "j.sergio.paulino@gmail.com",
+            "email": "sergio@rewardtheworld.com",
             "role": "Developer"
         }
     ],

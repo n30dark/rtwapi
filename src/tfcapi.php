@@ -1,17 +1,8 @@
 <?php
-/**
- * the first club
- * 
- * @link    http://www.thefirstclub.com
- * @package framework_library_tfcapi
- */
 
-/**
- * @category framework
- * @package  framework_library_tfcapi
- */
+namespace RTWAPI;
 
-class Library_TfcApi
+class RTWAPI
 {
 
 	private $user;
